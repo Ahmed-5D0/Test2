@@ -24,4 +24,3 @@ and You will get exclusive discount[^2] of 10% on Total Price :stuck_out_tongue_
 > [T&C Applied](https://www.inoxmovies.com/TermsCondition.aspx) ...
 [^1]: Only first time users and new Customers are applicable for this Offer.
 [^2]: Max. Discount per Bill is Rs.100/-
-
