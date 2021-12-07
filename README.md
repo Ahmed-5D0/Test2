@@ -17,3 +17,11 @@ S.No|Movie Name|Ratings|Show Timings|Ticket Cost
 2|Sholay|4.5/5.0|06:00pm-09:00pm|Rs.250/-
 3|Ashiqui 3|4.7/5.0|09:30pm-12:30am|Rs.250/-
 4|3 Idiots|5.0/5.0|11:00am-02:00pm|Rs.250/-
+
+[^1]First Time :worried::worried:?? Dont Worry :smiley:
+Use the Coupon Code : `WELCOME10` <br/>
+and You will get exclusive discount[^2] of 10% on Total Price :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+> [T&C Applied](https://www.inoxmovies.com/) ...
+[^1]: Only first time users and new Customers are applicable for this Offer.
+[^2]: Max. Discount per Bill is Rs.100/-
+
